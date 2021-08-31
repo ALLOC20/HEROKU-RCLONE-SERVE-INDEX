@@ -15,7 +15,7 @@
     },
      "PARAM": {
       "description": "Please type your PARAM.",
-      "value": "rcd"
+      "value": "rcd --rc-web-gui --rc-user=admin --rc-pass=admin"
     }
 
 
