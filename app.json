@@ -13,7 +13,7 @@
       "description": "Please enter your Cloudname/Remote that you assigned in rclone.conf file.",
       "value": ""
     },
-    "PARAM": {
+     "PARAM": {
       "description": "Please type your PARAM.",
       "value": "rcd"
     }
