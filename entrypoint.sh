@@ -1,4 +1,4 @@
 #!/bin/bash
 cd / && wget $URL
 rclone lsd $CLOUDNAME:
-rclone $PARAM
+rclone $PARAM --rc-addr :$PORT
